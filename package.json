@@ -1,0 +1,31 @@
+{
+  "name": "contrib-bot",
+  "version": "1.0.0",
+  "description": "Github contributions bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadhiilrachman/ossdao.git"
+  },
+  "keywords": [
+    "github",
+    "contrib-bot"
+  ],
+  "author": "Merk Kremont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fadhiilrachman/ossdao/issues"
+  },
+  "homepage": "https://github.com/fadhiilrachman/ossdao#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.6",
+    "simple-git": "^2.48.0"
+  }
+}
